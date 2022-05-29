@@ -1,5 +1,5 @@
 # Detailed Analysis of the statement
-Let's start with the status quo...........
+**Let's start with the status quo...........**
 There is a librarian in my school.
 I approached him and asked, "Hello, I was wondering- How do you keep track of the books we borrow from you? You don't mantain any record books or any equivalent thing."
 He said, "Are you living in 1950 or so? ".
@@ -18,13 +18,13 @@ Then a solution sprang in my mind, "I CAN MAKE THIS SOFTWARE, IT WILL BE A FANTA
 
 So, I regularly met with the librarian and asked him about his requirements.
 These were his requirements :-
-1. An Authentication System to uniquely identify me.
-2. A easy to use interface.
-3. A way to see the list of books directly on the screen.
-4. A way to see the list of borrowed and booked books directly.
-5. An easy and quick process to enter the details while the book is being borrowed.
-6. A future proof system, if i want to add some magzines and books to the available pool this should be easy.
-7. The details of the books must follow a structure as (NAME, AUTHOR_NAME,PUBLISHER_NAME,PUBLISHED_YEAR,BOOK_ID,NUMBER_OF_COPIES)
+**1. An Authentication System to uniquely identify me.**
+**2. A easy to use interface.**
+**3. A way to see the list of books directly on the screen.**
+**4. A way to see the list of borrowed and booked books directly.**
+**5. An easy and quick process to enter the details while the book is being borrowed.**
+**6. A future proof system, if i want to add some magzines and books to the available pool this should be easy.**
+**7. The details of the books must follow a structure as (NAME, AUTHOR_NAME,PUBLISHER_NAME,PUBLISHED_YEAR,BOOK_ID,NUMBER_OF_COPIES)**
 
 These were the 7 requirements from the software.
 
