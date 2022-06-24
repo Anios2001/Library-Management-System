@@ -9,7 +9,7 @@ The core java is based on the command line and i was looking for a **Graphical I
 That need was fulfilled by the **'JAVA SWING API'**.
 
 **JAVA SWING API** is the basic API which lets us create a Window based Graphical Software very quickly.
-There were another primitives as well, like JAVA FX, Flutter , AWT's etc but I chose JAVA SWING on account of the direct customization as the code for generating the UI was based on JAVA i.e. for creating a FRAME you write 
+There were another primitives as well, like JAVA FX, Flutter , AWT's etc but I chose JAVA SWING on account of the direct customization as the code for generating the UI was based on JAVA i.e. for creating a **FRAME** you write 
 ```
   JFrame frame = new JFrame();
   frame.setBounds(124,124,124,124);
