@@ -16,6 +16,7 @@ There were another primitives as well, like JAVA FX, Flutter , AWT's etc but I c
 According to the need of the application I was obliged to proivide a EASY TO USE ui which was easy to adopt by the librarian. 
 
 So, the first screen after logging in the application displays the current borrowed or issued books, CDS and magazines in seperate tables.
+
 -------- This was because the librarian said "In order to manage library when i start the computer, i need a proper list of issued and borrowed books on a daily basis ".
 
 On the home screen there were different tabs to go to different use cases of the application 
@@ -28,9 +29,11 @@ Following were the most important use cases of the application::
 6. Edit details of the stored books,magazines,CDS etc.
 7. Show how many books of each category i.e.
     FICTION ,ADVENTURE,EDUCATION ARE AVAILABLE.
+    
 ----------------------These were the basic requirements of the librarian from such a system.
 
 When You are in any use case of the application,if you cancel the operation by closing the window the application redirects you the home screen.
+
 ------------This was the additional feature that was added after the project was completed and was started being used in the library.
 
 During my analysis and testing i found that application was taking some time to start if the data was big, so I got away with this issue by a loading screen to display the progress of initialization.
